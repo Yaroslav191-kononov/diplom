@@ -1,0 +1,19 @@
+/* For information on how to create your own theme, please see:
+http://ionicframework.com/docs/theming/ */
+/* src/theme/variables.css */
+/* задний фон бади */
+:root {
+  --ion-background-color: #fafafa !important;
+}
+/* хедер */
+ion-header ion-toolbar { 
+  --background: #212529 !important;
+  color: white !important;
+}
+ion-tab-bar{
+  --background: #212529 !important;
+  color: white !important;
+}
+strong{
+    color: #212529 !important;
+}
